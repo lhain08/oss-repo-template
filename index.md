@@ -1,8 +1,10 @@
-# Open Source Software - Summer 2019
-## (( Your Name Here ))
+# Open Source Software - Spring 2022
+## Liam Haining
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+Senior Computer Science major minoring in Economics and concentrating in software design.
+My discord tag is liam-haining#6585.
+![Me](my_profile.jpg)
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)

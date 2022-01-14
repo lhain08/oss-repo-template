@@ -16,7 +16,7 @@ Unsure what to screenshot but here is the full progress bar for the beginner sec
 
 # Section 5 - Snap/Blockly
 Completed the blockly puzzle by moving left whenever possible. If nothing to the left, move forward or turn right until you can move forwards.
-![maze](maze.png)
+![maze](blockly.png)
 
 # Section 6 - Reflection
 

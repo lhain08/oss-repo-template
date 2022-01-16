@@ -31,4 +31,5 @@ Completed the blockly puzzle by moving left whenever possible. If nothing to the
 ![maze](blockly.png)
 
 # Section 6 - Reflection
+If I were to evaluate an open source project, I would most likely select a project that I have personally used. A great example would be YACS. While I haven't worked on in myself, I have already explored it's source code and brainstormed some fixes or ideas that I would design or implement for it. For example, I noticed this past semester no course had a description on YACS. For example, I would write a web scraper to pull the RPI catalog entry if it exists for each course code and display it for the user so they don't have to do what I did and go find each course entry themselves.  
 

@@ -15,7 +15,7 @@ Releasing early in the development process is a good choice for open source deve
 In reading the differentiation between Apache, MIT, and GPL, according to [a blog post on Exygy](https://www.exygy.com/blog/which-license-should-i-use-mit-vs-apache-vs-gpl), Apache was highly permissible while maintaining specificity for the purposes of combatting lawsuits. This is good for a widely distributed software that is more liable to be extended by outside developers.
 
 ## Business Model
-(Open Assistant)[https://github.com/sak6lab/OpenAssistant]
+[Open Assistant](https://github.com/sak6lab/OpenAssistant)
 
 ## RCOS Projects
 | Project Name | License Present | License   |

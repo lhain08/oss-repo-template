@@ -2,7 +2,7 @@
 
 ## Example 0
 
-![whalesay](whalesay.png)
+![whale](whale.png)
 
 ## Example 1
 

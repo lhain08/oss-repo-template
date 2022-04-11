@@ -8,7 +8,7 @@
 
 ![Baseball](CouchDB-Baseball.png)
 
-![Plankton](CouchDB-Plankton.png)
+![Plankton](CouchDB-plankton.png)
 
 ![Mango](Mango-Query.png)
 
